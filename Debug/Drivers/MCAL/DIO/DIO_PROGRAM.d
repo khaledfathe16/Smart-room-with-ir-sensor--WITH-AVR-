@@ -1,0 +1,2 @@
+Drivers/MCAL/DIO/DIO_PROGRAM.o Drivers/MCAL/DIO/DIO_PROGRAM.o:  \
+ ../Drivers/MCAL/DIO/DIO_PROGRAM.c
